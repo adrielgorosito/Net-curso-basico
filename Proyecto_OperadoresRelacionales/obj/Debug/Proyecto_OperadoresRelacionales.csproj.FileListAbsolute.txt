@@ -1,0 +1,7 @@
+C:\Users\adrie\Desktop\Projects\CursoBasico\Solucion_nivelBasico\Proyecto_OperadoresRelacionales\bin\Debug\Proyecto_OperadoresRelacionales.exe.config
+C:\Users\adrie\Desktop\Projects\CursoBasico\Solucion_nivelBasico\Proyecto_OperadoresRelacionales\bin\Debug\Proyecto_OperadoresRelacionales.exe
+C:\Users\adrie\Desktop\Projects\CursoBasico\Solucion_nivelBasico\Proyecto_OperadoresRelacionales\bin\Debug\Proyecto_OperadoresRelacionales.pdb
+C:\Users\adrie\Desktop\Projects\CursoBasico\Solucion_nivelBasico\Proyecto_OperadoresRelacionales\obj\Debug\Proyecto_OperadoresRelacionales.csproj.AssemblyReference.cache
+C:\Users\adrie\Desktop\Projects\CursoBasico\Solucion_nivelBasico\Proyecto_OperadoresRelacionales\obj\Debug\Proyecto_OperadoresRelacionales.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Desktop\Projects\CursoBasico\Solucion_nivelBasico\Proyecto_OperadoresRelacionales\obj\Debug\Proyecto_OperadoresRelacionales.exe
+C:\Users\adrie\Desktop\Projects\CursoBasico\Solucion_nivelBasico\Proyecto_OperadoresRelacionales\obj\Debug\Proyecto_OperadoresRelacionales.pdb
