@@ -1,0 +1,7 @@
+C:\Users\adrie\Desktop\Projects\CursoBasico\Solucion_nivelBasico\Proyecto_DatosPrimitivos\bin\Debug\Proyecto_DatosPrimitivos.exe.config
+C:\Users\adrie\Desktop\Projects\CursoBasico\Solucion_nivelBasico\Proyecto_DatosPrimitivos\bin\Debug\Proyecto_DatosPrimitivos.exe
+C:\Users\adrie\Desktop\Projects\CursoBasico\Solucion_nivelBasico\Proyecto_DatosPrimitivos\bin\Debug\Proyecto_DatosPrimitivos.pdb
+C:\Users\adrie\Desktop\Projects\CursoBasico\Solucion_nivelBasico\Proyecto_DatosPrimitivos\obj\Debug\Proyecto_DatosPrimitivos.csproj.AssemblyReference.cache
+C:\Users\adrie\Desktop\Projects\CursoBasico\Solucion_nivelBasico\Proyecto_DatosPrimitivos\obj\Debug\Proyecto_DatosPrimitivos.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Desktop\Projects\CursoBasico\Solucion_nivelBasico\Proyecto_DatosPrimitivos\obj\Debug\Proyecto_DatosPrimitivos.exe
+C:\Users\adrie\Desktop\Projects\CursoBasico\Solucion_nivelBasico\Proyecto_DatosPrimitivos\obj\Debug\Proyecto_DatosPrimitivos.pdb
