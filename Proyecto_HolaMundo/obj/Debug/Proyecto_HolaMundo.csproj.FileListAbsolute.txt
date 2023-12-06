@@ -1,0 +1,7 @@
+C:\Users\adrie\Desktop\Projects\CursoBasico\Solucion_nivelBasico\Proyecto_HolaMundo\bin\Debug\Proyecto_HolaMundo.exe.config
+C:\Users\adrie\Desktop\Projects\CursoBasico\Solucion_nivelBasico\Proyecto_HolaMundo\bin\Debug\Proyecto_HolaMundo.exe
+C:\Users\adrie\Desktop\Projects\CursoBasico\Solucion_nivelBasico\Proyecto_HolaMundo\bin\Debug\Proyecto_HolaMundo.pdb
+C:\Users\adrie\Desktop\Projects\CursoBasico\Solucion_nivelBasico\Proyecto_HolaMundo\obj\Debug\Proyecto_HolaMundo.csproj.AssemblyReference.cache
+C:\Users\adrie\Desktop\Projects\CursoBasico\Solucion_nivelBasico\Proyecto_HolaMundo\obj\Debug\Proyecto_HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Desktop\Projects\CursoBasico\Solucion_nivelBasico\Proyecto_HolaMundo\obj\Debug\Proyecto_HolaMundo.exe
+C:\Users\adrie\Desktop\Projects\CursoBasico\Solucion_nivelBasico\Proyecto_HolaMundo\obj\Debug\Proyecto_HolaMundo.pdb
