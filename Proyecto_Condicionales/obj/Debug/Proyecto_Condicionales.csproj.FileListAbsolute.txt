@@ -1,0 +1,7 @@
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_Condicionales\bin\Debug\Proyecto_Condicionales.exe.config
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_Condicionales\bin\Debug\Proyecto_Condicionales.exe
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_Condicionales\bin\Debug\Proyecto_Condicionales.pdb
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_Condicionales\obj\Debug\Proyecto_Condicionales.csproj.AssemblyReference.cache
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_Condicionales\obj\Debug\Proyecto_Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_Condicionales\obj\Debug\Proyecto_Condicionales.exe
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_Condicionales\obj\Debug\Proyecto_Condicionales.pdb
