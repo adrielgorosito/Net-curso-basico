@@ -1,0 +1,7 @@
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_Iteraciones\bin\Debug\Proyecto_Iteraciones.exe.config
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_Iteraciones\bin\Debug\Proyecto_Iteraciones.exe
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_Iteraciones\bin\Debug\Proyecto_Iteraciones.pdb
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_Iteraciones\obj\Debug\Proyecto_Iteraciones.csproj.AssemblyReference.cache
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_Iteraciones\obj\Debug\Proyecto_Iteraciones.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_Iteraciones\obj\Debug\Proyecto_Iteraciones.exe
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_Iteraciones\obj\Debug\Proyecto_Iteraciones.pdb
