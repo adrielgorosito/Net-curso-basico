@@ -1,0 +1,7 @@
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_VectoresYMatrices\bin\Debug\Proyecto_VectoresYMatrices.exe.config
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_VectoresYMatrices\bin\Debug\Proyecto_VectoresYMatrices.exe
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_VectoresYMatrices\bin\Debug\Proyecto_VectoresYMatrices.pdb
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_VectoresYMatrices\obj\Debug\Proyecto_VectoresYMatrices.csproj.AssemblyReference.cache
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_VectoresYMatrices\obj\Debug\Proyecto_VectoresYMatrices.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_VectoresYMatrices\obj\Debug\Proyecto_VectoresYMatrices.exe
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_VectoresYMatrices\obj\Debug\Proyecto_VectoresYMatrices.pdb
