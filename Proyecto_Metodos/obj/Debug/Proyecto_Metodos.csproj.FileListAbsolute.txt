@@ -1,0 +1,7 @@
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_Metodos\bin\Debug\Proyecto_Metodos.exe.config
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_Metodos\bin\Debug\Proyecto_Metodos.exe
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_Metodos\bin\Debug\Proyecto_Metodos.pdb
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_Metodos\obj\Debug\Proyecto_Metodos.csproj.AssemblyReference.cache
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_Metodos\obj\Debug\Proyecto_Metodos.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_Metodos\obj\Debug\Proyecto_Metodos.exe
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_Metodos\obj\Debug\Proyecto_Metodos.pdb
