@@ -1,0 +1,7 @@
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_Excepciones\bin\Debug\Proyecto_Excepciones.exe.config
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_Excepciones\bin\Debug\Proyecto_Excepciones.exe
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_Excepciones\bin\Debug\Proyecto_Excepciones.pdb
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_Excepciones\obj\Debug\Proyecto_Excepciones.csproj.AssemblyReference.cache
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_Excepciones\obj\Debug\Proyecto_Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_Excepciones\obj\Debug\Proyecto_Excepciones.exe
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_Excepciones\obj\Debug\Proyecto_Excepciones.pdb
