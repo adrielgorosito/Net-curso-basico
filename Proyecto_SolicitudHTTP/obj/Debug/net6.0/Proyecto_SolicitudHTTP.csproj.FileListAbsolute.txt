@@ -1,0 +1,15 @@
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_SolicitudHTTP\bin\Debug\net6.0\Proyecto_SolicitudHTTP.exe
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_SolicitudHTTP\bin\Debug\net6.0\Proyecto_SolicitudHTTP.deps.json
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_SolicitudHTTP\bin\Debug\net6.0\Proyecto_SolicitudHTTP.runtimeconfig.json
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_SolicitudHTTP\bin\Debug\net6.0\Proyecto_SolicitudHTTP.dll
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_SolicitudHTTP\bin\Debug\net6.0\Proyecto_SolicitudHTTP.pdb
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_SolicitudHTTP\obj\Debug\net6.0\Proyecto_SolicitudHTTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_SolicitudHTTP\obj\Debug\net6.0\Proyecto_SolicitudHTTP.AssemblyInfoInputs.cache
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_SolicitudHTTP\obj\Debug\net6.0\Proyecto_SolicitudHTTP.AssemblyInfo.cs
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_SolicitudHTTP\obj\Debug\net6.0\Proyecto_SolicitudHTTP.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_SolicitudHTTP\obj\Debug\net6.0\Proyecto_SolicitudHTTP.sourcelink.json
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_SolicitudHTTP\obj\Debug\net6.0\Proyecto_SolicitudHTTP.dll
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_SolicitudHTTP\obj\Debug\net6.0\refint\Proyecto_SolicitudHTTP.dll
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_SolicitudHTTP\obj\Debug\net6.0\Proyecto_SolicitudHTTP.pdb
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_SolicitudHTTP\obj\Debug\net6.0\Proyecto_SolicitudHTTP.genruntimeconfig.cache
+C:\Users\adrie\Desktop\Projects\Net-curso-basico\Proyecto_SolicitudHTTP\obj\Debug\net6.0\ref\Proyecto_SolicitudHTTP.dll
